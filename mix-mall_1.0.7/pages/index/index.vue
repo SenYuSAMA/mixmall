@@ -6,7 +6,7 @@
 			<input class="ser-input" type="text" value="输入关键字搜索" disabled />
 		</view>
 		<!-- #endif -->
-		
+		<!-- Test git -->
 		<!-- 头部轮播 -->
 		<view class="carousel-section">
 			<!-- 标题栏和状态栏占位符 -->
